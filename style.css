@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    list-style: none;
+}
+
+.btn{
+    background-color:grey;
+    color: white;
+    box-shadow: 5px 5px 10px black;
+    display:flexbox;
+    flex: 10px;
+}
